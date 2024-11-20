@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://re.fogpost.top/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/about/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/license/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/note/mkdocs/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/note/python/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/user-guide/how-to-use-MkDocs/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://re.fogpost.top/user-guide/quickstart/</loc>
+         <lastmod>2024-11-20</lastmod>
+    </url>
 </urlset>
